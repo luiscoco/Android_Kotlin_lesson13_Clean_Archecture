@@ -14,12 +14,26 @@ This is the application files structure
 ![image](https://github.com/luiscoco/Android_Kotlin_lesson13_Clean_Archecture/assets/32194879/c8bcbfa7-b22c-4390-b3d0-f4c1e190effc)
 
 
-## 3. 
+## 3. Load the application dependencies
+
+These are the Gradle configuration files
+
+![image](https://github.com/luiscoco/Android_Kotlin_lesson13_Clean_Archecture/assets/32194879/f22b0fb1-0c4e-4b03-8c13-132da6d06ce7)
 
 
 
-## 4. 
+
+## 4. Application entry point (MainActivity.kt)
+
+```kotlin
+
+```
+
+## 5. 
 
 
+
+
+## 6. 
 
 
